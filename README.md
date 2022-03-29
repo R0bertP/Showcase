@@ -46,8 +46,7 @@ The configuration details of each machine may be found below.
 
 The machines on the internal network are not exposed to the public Internet. 
 
-Only the JumpBox machine can accept connections from the Internet. Access to this machine is only allowed from the following IP addresses:
-99.120.2.190 (My Public IP)
+Only the JumpBox machine can accept connections from the Internet. Access to this machine is only allowed from the following IP addresses: (My Public IP)
 
 Machines within the network can only be accessed by my Jumpbox VM.
 
